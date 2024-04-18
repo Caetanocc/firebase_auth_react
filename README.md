@@ -53,14 +53,14 @@ npm install firebase
 
 - Configurar o Firebase no seu aplicativo
 
-    Vá para o Console do Firebase (https://console.firebase.google.com/)
-    Crie um novo projeto ou selecione um projeto existente
-    Vá para a seção "Authentication" e ative o método de autenticação que deseja usar (por exemplo, E-mail/senha)
-    Clique em "Configuração do SDK" e copie as configurações do Firebase (apiKey, authDomain, etc.)
+    * Vá para o Console do Firebase (https://console.firebase.google.com/)
+    * Crie um novo projeto ou selecione um projeto existente
+    * Vá para a seção "Authentication" e ative o método de autenticação que deseja usar (por exemplo, E-mail/senha)
+    * Clique em "Configuração do SDK" e copie as configurações do Firebase (apiKey, authDomain, etc.)
 
 - Implementar a lógica de autenticação no seu aplicativo React
 
-No arquivo src/App.js: adicionar o código para fazer login usando o Firebase Authentication. 
+No arquivo **src/App.js**: adicionar o código para fazer login usando o Firebase Authentication. 
 Exemplo básico:
 
 ### Lembre-se de preencher suas credenciais do Firebase.
