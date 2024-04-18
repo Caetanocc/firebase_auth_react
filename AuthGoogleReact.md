@@ -1,5 +1,7 @@
 # Implementar o login via Google usando o Firebase Authentication em seu aplicativo React
 
+## em caso de não ter um aplicativo React criado, veja o README.md
+
 Etapas:
 - Habilitar o provedor de autenticação do Google no console do Firebase.
 - Configurar o código do cliente no seu aplicativo React para iniciar a autenticação do Google.
